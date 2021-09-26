@@ -1,10 +1,10 @@
 # Radio Stories
 
-These Miami radio stories were copied from a Neil Rogers Facebook group (2013-2014). The author AK unfortunately deleted them after getting into an online battle with a few members of the group. Fortunately, John Baker saved them before he passed. This archive is not affiliated with the political drama and member fighting on Facebook. Our mission is to preserve radio history before these stories are lost.  
+These Miami radio stories were copied from a Neil Rogers Facebook group (2013-2014). The author AK unfortunately deleted them after getting into an online battle with a few members of the group. Fortunately, John Baker saved them before he passed. This archive is not affiliated with the political drama and member fighting on Facebook. Our mission is to preserve radio history before these stories are lost.
 
 Before posting, fans of Neil were asked online if they wished to see these stories published. The response was [overwhelming in favor](https://twitter.com/NeilRogersRadio/status/1439269826233462784).
 
-***
+---
 
 [Gilbert interviews Ricky Schroder](md/20130713.md)
 
@@ -74,9 +74,9 @@ Before posting, fans of Neil were asked online if they wished to see these stori
 
 [The Cat is Outta The Bag](md/20131215.md)
 
-[The Sale of WIOD – Part 1](md/20131216-1.md)
+[The Sale of WIOD – Part 1](md/20141216-1.md)
 
-[The Sale of WIOD – Part 2](md/20131217-2.md)
+[The Sale of WIOD – Part 2](md/20141217-2.md)
 
 [This Place is a ZOO!](md/20141220.md)
 
