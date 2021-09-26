@@ -74,9 +74,9 @@ Before posting, fans of Neil were asked online if they wished to see these stori
 
 [The Cat is Outta The Bag](md/20131215.md)
 
-[The Sale of WIOD – Part 1](md/20141216-1.md)
+[The Sale of WIOD – Part 1](md/20140216-1.md)
 
-[The Sale of WIOD – Part 2](md/20141217-2.md)
+[The Sale of WIOD – Part 2](md/20140217-2.md)
 
 [This Place is a ZOO!](md/20141220.md)
 
