@@ -4,7 +4,7 @@ These Miami radio stories were copied from a Neil Rogers Facebook group (2013-20
 
 Before posting, fans of Neil were asked online if they wished to see these stories published. The response was [overwhelming in favor](https://twitter.com/NeilRogersRadio/status/1439269826233462784).
 
----
+## ![WIOD Tape](wiod-tape.jpg)
 
 [Gilbert interviews Ricky Schroder](md/20130713.md)
 
