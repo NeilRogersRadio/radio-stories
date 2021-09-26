@@ -1,8 +1,10 @@
 # Radio Stories
 
-These Miami radio stories were copied from a Neil Rogers Facebook group (2013-2014). The author AK unfortunately deleted them after getting into an online battle with a few members of the group. Fortunately, John Baker saved them before he passed.
+These Miami radio stories were copied from a Neil Rogers Facebook group (2013-2014). The author AK unfortunately deleted them after getting into an online battle with a few members of the group. Fortunately, John Baker saved them before he passed. This archive is not affiliated with the political drama and member fighting on Facebook. Our mission is to preserve radio history before these stories are lost.  
 
 Before posting, fans of Neil were asked online if they wished to see these stories published. The response was [overwhelming in favor](https://twitter.com/NeilRogersRadio/status/1439269826233462784).
+
+***
 
 [Gilbert interviews Ricky Schroder](md/20130713.md)
 
