@@ -44,7 +44,7 @@ Before posting, fans of Neil were asked online if they wished to see these stori
 
 [Phil Might Be Crazy](md/20130805.md)
 
-[Bryan Cox](md/20130806.md)
+[Bryan Cox - I Hate WIOD](md/20130806.md)
 
 [Inadequate Dave](md/20130814.md)
 
